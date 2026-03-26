@@ -1,3 +1,6 @@
+​// License: Proprietary. Unauthorized copying or use is strictly prohibited.
+// 许可：专有协议。未经授权严禁复制或使用。
+
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, Text, View, Dimensions, TouchableOpacity } from 'react-native';
 import { Accelerometer } from 'expo-sensors'; // 需要安装 expo-sensors
