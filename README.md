@@ -1,3 +1,6 @@
+​// License: Proprietary. Unauthorized copying or use is strictly prohibited.
+// 许可：专有协议。未经授权严禁复制或使用。
+
 # NextGo: High-Performance Short Video Revenue Engine
 
 ### 🚀 Overview
